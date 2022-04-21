@@ -1,0 +1,98 @@
+{
+    "programas": [
+        {
+            "id": 1,
+            "titulo": "Programa Mensual",
+            "imagen": "../images/programa-1.jpg",
+            "precio": 4500,
+            "duracion": "4 SEMANAS",
+            "descripcion": "ENTRENAMIENTO + GUIA ALIMENTARIA PERSONALIZADO",
+            "url": "mensual",
+            "deQue": "Consta de un mesociclo programado en cuatro semanas de entrenamiento y una guía de alimentación PERSONALIZADA, la misma contemplará tus objetivos estéticos como así también, aquellos que te permitan tener una mejor calidad de vida, mejorando tu salud. También será tenido en cuenta tu nivel de entrenamiento, tu disponibilidad horaria para entrenar y la adaptación que necesites si deseas entrenar desde tu casa.",
+            "aQuien": "Personas que quieran generar hábitos saludables para cambiar su estilo de vida. No importa si sos principiante o sos nivel intermedio/ avanzado Las rutinas se adaptan a tus requerimientos. ",
+            "beneficios": "El seguimiento es semanal, recibirás motivación constante para que no dejes de entrenar. La guía alimenticia tiene muchas recetas para que no te aburras. Tenes acceso a 4 clases online durante el periodo que tengas tu plan activo."
+        },
+        {
+            "id": 2,
+            "titulo": "8 Weeks Program",
+            "imagen": "EightWeeksProgram",
+            "precio": 6000,
+            "duracion": "8 SEMANAS",
+            "descripcion": "ENTRENAMIENTO + NUTRICIÓN PERSONALIZADO",
+            "url": "eight-weeks",
+            "deQue": "Programación de las rutinas de entrenamiento y la guía de alimentación por dos meses. Es 100% PERSONALIZADO. El primer ciclo dura entre 4 y 5 semanas, después del check mensual correspondiente al primer mes de entrenamiento, se entregará el segundo ciclo con las progresiones de la rutina y los ajustes del programa alimenticio.",
+            "aQuien": "Personas que quieran generar hábitos saludables para cambiar su estilo de vida. No importa si sos principiante o sos nivel intermedio/ avanzado Las rutinas se adaptan a tus requerimientos. ",
+            "beneficios": "Los cambios significativos se observan a partir de las 8 semanas de entrenamiento, con este plan generas el compromiso de entrenar durante ese lapso de tiempo de forma organizada y con motivación constante para que puedas completar el desafío. Seguimiento constante durante los 2 meses con el plan activo. Recetario con recetas súper fáciles, ricas y saludables. Acceso a 12 clases online en vivo durante los dos meses de entrenamiento."
+        },
+        {
+            "id": 3,
+            "titulo": "12 Weeks Program",
+            "imagen": "TwelveWeeksProgram",
+            "precio": 8925,
+            "duracion": "TRANSFORMACIÓN TOTAL",
+            "descripcion": "ENTRENAMIENTO + NUTRICIÓN PERSONALIZADO",
+            "url": "twelve-weeks",
+            "deQue": "Programación de las rutinas de entrenamiento y la guía de alimentación por 3 meses. Es 100% PERSONALIZADO. Compuesto por dos ciclos de 6 semanas cada uno, después del check mensual correspondiente al primer ciclo de entrenamiento, se entregará el segundo ciclo con las progresiones de la rutina y los ajustes del programa alimenticio.",
+            "aQuien": "Personas que quieran generar hábitos saludables para cambiar su estilo de vida. No importa si sos principiante o sos nivel intermedio/ avanzado Las rutinas se adaptan a tus requerimientos. ",
+            "beneficios": "Compromiso a largo plazo, resultados 100% asegurados. Entrenamiento organizado, con los ajustes que necesites semana a semana para mejorar tu rendimiento y acercarte rápidamente a tus objetivos Seguimiento constante durante los 3 meses con el plan activo. Recetario con recetas súper fáciles, ricas y saludables. Acceso a 20 clases online en vivo durante los tres meses de entrenamiento. Ahorrás dinero, ya que contratando este plan terminás pagando menos."
+        }
+    ],
+    "clases": [
+        {
+            "id": 4,
+            "titulo": "Clases Advance Online",
+            "imagen": "clasesAdvance",
+            "precio": 4500,
+            "duracion": "20 CLASES POR ZOOM",
+            "descripcion": "TODAS QUEDAN GRABADAS MENSUAL - GRUPAL",
+            "url": "advance",
+            "deQue": "Entrena como yo, junto a mi. Nos encontramos de lunes a viernes por ZOOM para entrenar juntas, desafiándonos todos los días de la semana, con el fin de divertirnos haciendo actividad física, mejorar nuestra composición corporal, mejorar nuestro rendimiento físico, mejorar nuestra postura y fortalecernos física y mentalmente. Los encuentros son grupales, la semana se divide en 3 entrenamientos de tren inferior y 2 de entrenamiento metabólico con enfoque en tren superior. Todas las clases son distintas y la duración es de 60/ 70 min (se pasa rapidísimo)",
+            "aQuien": "Orientada para las personas que todavía no se hayan enamorado del entrenamiento, también para aquellas que no encuentren motivación entrenando solas y necesiten corrección de sus técnicas y ejecuciones de los ejercicios.",
+            "beneficios": "Te vas a divertir muchísimo y vas a tener resultados estéticos increíbles! Además las clases quedan grabadas, si no te podés conectar en vivo, te envío la grabación para que no te pierdas de nada!! HORARIOS VIGENTES DICIEMBRE 2021: lunes18hs // martes y jueves 19hs // miércoles y viernes15hs."
+        },
+        {
+            "id": 5,
+            "titulo": "Pack 12 Clases Online",
+            "imagen": "TwelveClasesOnline",
+            "precio": 3500,
+            "duracion": "12 CLASES GRABADAS",
+            "descripcion": "NIVEL PRINCIPIANTE - MENSUAL",
+            "url": "twelve-weeks",
+            "deQue": "Según tus objetivos hago una selección de las clases que mejor se adapten a vos, y te las envío en un pack de 12 o 20 clases según cuantas veces quieras entrenar en la semana.",
+            "aQuien": "Orientada para las personas que todavía no se hayan enamorado del entrenamiento, también para aquellas que no encuentren motivación entrenando solas y necesiten corrección de sus técnicas y ejecuciones de los ejercicios.",
+            "beneficios": "Orientadas hacia un objetivo, quedan grabadas y las podes hacer las veces que quieras!!!"
+        },
+        {
+            "id": 6,
+            "titulo": "Pack 20 Clases Online",
+            "imagen": "TwentyClasesOnline",
+            "precio": 4500,
+            "duracion": "20 CLASES GRABADAS",
+            "descripcion": "NIVEL INTERMEDIO/AVANZADO - MENSUAL",
+            "url": "twenty",
+            "deQue": "Según tus objetivos hago una selección de las clases que mejor se adapten a vos, y te las envío en un pack de 12 o 20 clases según cuantas veces quieras entrenar en la semana.",
+            "aQuien": "Orientada para las personas que todavía no se hayan enamorado del entrenamiento, también para aquellas que no encuentren motivación entrenando solas y necesiten corrección de sus técnicas y ejecuciones de los ejercicios.",
+            "beneficios": "Orientadas hacia un objetivo, quedan grabadas y las podes hacer las veces que quieras!!!"
+        }
+    ],
+    "extras": [
+        {
+            "id": 7,
+            "titulo": "Recetario",
+            "imagen": "recetario",
+            "precio": 2800,
+            "duracion": "50 RECETAS",
+            "descripcion": "APRENDÉ A CALCULAR TUS KCAL Y MACROS EN FORMATO PDF",
+            "url": "recetario"
+        },
+        {
+            "id": 8,
+            "titulo": "Gift Card",
+            "imagen": "giftCard",
+            "precio": 3000,
+            "duracion": "GIFT CARD",
+            "descripcion": "REGALÁ SALUD Y CALIDAD DE VIDA. A PARTIR DE $3000",
+            "url": "gift-card"
+        }
+    ]
+}
